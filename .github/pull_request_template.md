@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--swbarman-ndbf-nebraska-gov-startmark-financial--aemdemos.aem.live/
-- After: https://<branch>--swbarman-ndbf-nebraska-gov-startmark-financial--aemdemos.aem.live/
+- Before: https://main--test-amey-again--aemdemos.aem.live/
+- After: https://main--test-amey-again--aemdemos.aem.live/
